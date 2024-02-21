@@ -4,6 +4,7 @@ repository: https://github.com/arthenica/ffmpeg-kit
 issue_tracker: https://github.com/arthenica/ffmpeg-kit/issues
 homepage: https://github.com/arthenica/ffmpeg-kit
 version: 5.1.0-LTS
+publish_to: "none"
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
